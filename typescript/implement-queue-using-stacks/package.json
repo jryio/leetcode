@@ -1,0 +1,7 @@
+{
+  "name": "implement-queue-using-stacks",
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
