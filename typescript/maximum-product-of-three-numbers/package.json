@@ -1,0 +1,11 @@
+{
+  "name": "maximum-product-of-three-numbers",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
