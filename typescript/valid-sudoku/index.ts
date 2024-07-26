@@ -7,6 +7,7 @@
 //
 // Perhaps there is a faster way? I don't know of any right now... will have to
 // check the solutions...
+//
 
 
 function isValidSudoku(board: string[][]): boolean {
